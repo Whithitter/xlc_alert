@@ -1,4 +1,4 @@
 {
-  "active": false,
-  "message": "This is a default alert message."
+  "active": true,
+  "message": "This is a test alert message."
 }
